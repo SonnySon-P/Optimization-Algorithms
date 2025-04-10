@@ -13,4 +13,4 @@
 4. 模擬退火法（Simulated Annealing)
 5. 螞蟻演算法（Ant Colony Optimization）
 
-**五、未來規劃：** 目前尚缺一項知名的最佳化演算法──基因演算法（Genetic Algorithm），未來有空時，將會補上以完善整體內容。相關作品可參照[Route planning based on time constraints](https://github.com/SonnySon-P/Route-Planning)。
+**五、未來規劃：** 目前尚缺一項知名的最佳化演算法─基因演算法（Genetic Algorithm），未來有空時，將會補上以完善整體內容。相關作品可參照[Route planning based on time constraints](https://github.com/SonnySon-P/Route-Planning)。
