@@ -11,6 +11,6 @@
 2. 梯度下降法（Gradient Descent）
 3. 粒子群演算法（Particle Swarm Optimization）
 4. 模擬退火法（Simulated Annealing)
-5. 螞蟻演算法（Ant Colony Optimization）
+5. 螞蟻演算法（Ant Colony Optimization, ACO）
 
 **五、未來規劃：** 目前尚缺一項知名的最佳化演算法─基因演算法（Genetic Algorithm），未來有空時，將會補上以完善整體內容。相關作品可參照[Route planning based on time constraints](https://github.com/SonnySon-P/Route-Planning)。
